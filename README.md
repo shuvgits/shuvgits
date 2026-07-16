@@ -23,7 +23,6 @@
 <a href="mailto:shuverthikanungo.co@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<img src="https://img.shields.io/badge/Open_to_Work-AI%2FML_Engineer-A277FF?style=for-the-badge" alt="Open to work"/>
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=a277ff&style=for-the-badge" alt="Profile views"/>
 
 </div>
