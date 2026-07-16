@@ -16,10 +16,6 @@
 
 <img src="./banner.png" alt="Shuverthi Kanungo — AI/ML Engineer" width="100%" />
 
-<p>
-  <b>M.S. Computer Science (AI) · Hofstra</b> · New York City Metro · Open to AI/ML Engineer roles
-</p>
-
 <a href="https://www.linkedin.com/in/shuverthikanungo">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
