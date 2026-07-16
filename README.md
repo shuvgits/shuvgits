@@ -15,11 +15,11 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A277FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Shuverthi+Kanungo+%F0%9F%91%8B;AI%2FML+Engineer+%C2%B7+LLMs+%C2%B7+NLP;Generative+%26+Agentic+AI+Builder;I+ship+AI+that+works+outside+the+notebook" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A277FF&center=true&vCenter=true&width=650&lines=I+teach+machines+to+see%2C+read+%26+reason+%F0%9F%92%9C;Hi%2C+I'm+Shuverthi+%E2%80%94+AI%2FML+Engineer;LLMs+%C2%B7+NLP+%C2%B7+Generative+%26+Agentic+AI;I+ship+AI+that+works+outside+the+notebook" alt="Typing SVG" />
 </a>
 
 <p>
-  <b>MS Computer Science @ Hofstra</b> · New York City Metro · Open to full-time roles from mid-2026
+  <b>M.S. Computer Science (AI) · Hofstra</b> · New York City Metro · Open to AI/ML Engineer roles
 </p>
 
 <a href="https://www.linkedin.com/in/shuverthikanungo">
@@ -28,7 +28,7 @@
 <a href="mailto:shuverthikanungo.co@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<img src="https://img.shields.io/badge/Open_to_Work-mid--2026-A277FF?style=for-the-badge" alt="Open to work"/>
+<img src="https://img.shields.io/badge/Open_to_Work-AI%2FML_Engineer-A277FF?style=for-the-badge" alt="Open to work"/>
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=a277ff&style=for-the-badge" alt="Profile views"/>
 
 </div>
@@ -37,9 +37,10 @@
 
 ## 🌸 About Me
 
-I build AI systems that work in the real world — not just in notebooks. I'm most energized at the intersection of **NLP, agentic AI, and responsible AI design**.
+I teach machines to see, read, and reason — and I love every minute of it. I build the kind of AI that actually ships: LLM-powered applications, RAG pipelines, agentic workflows, and models that solve real problems instead of just sounding impressive in a demo. Most energized at the intersection of **NLP, agentic AI, and responsible AI design**.
 
-- 🔭 &nbsp;Currently building **LLM-powered pipelines & agentic AI** systems
+- 🔭 &nbsp;Currently building **LLM-powered applications, RAG pipelines & agentic workflows**
+- 👁️ &nbsp;Recently shipped a deep learning system that detects **diabetic retinopathy at 90%+ accuracy**
 - 🌱 &nbsp;Deepening my work in **responsible AI, model evaluation, and fairness-aware fine-tuning**
 - 💬 &nbsp;Ask me about **LLMs, RAG, GPT fine-tuning, bias mitigation, or ETL for ML**
 - 🧪 &nbsp;Explainability toolkit: **GradCAM · Integrated Gradients · Feature-Map Attention**
@@ -71,6 +72,14 @@ I build AI systems that work in the real world — not just in notebooks. I'm mo
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Work
+
+- 👁️ &nbsp;**Diabetic Retinopathy Detection** — deep learning system that spots the disease in retinal scans with **90%+ accuracy**
+- 🗣️ &nbsp;**Conversational AI** — LLM-powered assistant that cut manual processing time by **~60%**
+- ⚖️ &nbsp;**Fairer Transformers** — GPT models fine-tuned for a measurable **10–20% reduction in gender bias**
 
 ---
 
