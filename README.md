@@ -16,6 +16,7 @@
 
 <img src="./banner.png" alt="Shuverthi Kanungo — AI/ML Engineer" width="100%" />
 
+
 <a href="https://www.linkedin.com/in/shuverthikanungo">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
