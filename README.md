@@ -14,9 +14,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A277FF&center=true&vCenter=true&width=650&lines=I+teach+machines+to+see%2C+read+%26+reason+%F0%9F%92%9C;Hi%2C+I'm+Shuverthi+%E2%80%94+AI%2FML+Engineer;LLMs+%C2%B7+NLP+%C2%B7+Generative+%26+Agentic+AI;I+ship+AI+that+works+outside+the+notebook" alt="Typing SVG" />
-</a>
+<img src="./banner.png" alt="Shuverthi Kanungo — AI/ML Engineer" width="100%" />
 
 <p>
   <b>M.S. Computer Science (AI) · Hofstra</b> · New York City Metro · Open to AI/ML Engineer roles
