@@ -91,7 +91,7 @@ Diabetic Retinopathy Detection from Fundus Images using Image Processing.
 <img src="./proj-explainable.png" width="100%" alt="Explainable AI for Retinopathy" />
 </a>
 <br/><br/>
-<b>Seeing through the Black Box:</b> Explainable AI for Diabetic Retinopathy Detection.
+Seeing through the Black Box: Explainable AI for Diabetic Retinopathy Detection.
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python" />
 <img src="https://img.shields.io/badge/PyTorch-2b2b2b?style=flat-square&logo=pytorch" />
