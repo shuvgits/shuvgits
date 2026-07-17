@@ -4,7 +4,7 @@
   1. This file goes in a repo named EXACTLY your GitHub username
      (e.g. a repo called "shuverthikanungo"). That's the magic
      "special repo" that shows up on your profile page.
-  2. Find & replace  YOUR_USERNAME  with your real GitHub username
+  2. Find & replace  shuvgits  with your real GitHub username
      everywhere below (it appears in the stats cards + visitor counter).
   3. Swap theme names (tokyonight) if you want a different vibe —
      options: radical, dracula, merko, gruvbox, catppuccin_mocha, etc.
@@ -16,6 +16,9 @@
 
 <img src="./banner.png" alt="Shuverthi Kanungo — AI/ML Engineer" width="100%" />
 
+<p>
+  <b>M.S. Computer Science (AI) · Hofstra</b> · New York City Metro · Open to AI/ML Engineer roles
+</p>
 
 <a href="https://www.linkedin.com/in/shuverthikanungo">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -23,24 +26,28 @@
 <a href="mailto:shuverthikanungo.co@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+<img src="https://img.shields.io/badge/Open_to_Work-AI%2FML_Engineer-A277FF?style=for-the-badge" alt="Open to work"/>
+<img src="https://komarev.com/ghpvc/?username=shuvgits&label=Profile%20views&color=a277ff&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
 ---
-## About Me
 
-I design and deploy production-grade AI systems — LLM-powered applications, RAG pipelines, agentic workflows, and machine learning models built to solve real-world problems. My work centers on the intersection of NLP, agentic AI, and responsible AI design, with a consistent focus on systems that are rigorous, reliable, and genuinely useful.
+## 🌸 About Me
 
-- 🔭  Currently developing LLM-powered applications, RAG pipelines, and agentic workflows
-- 👁️  Recently delivered a deep learning system for diabetic retinopathy detection, achieving 90%+ accuracy
-- 🌱  Advancing my work in responsible AI, model evaluation, and fairness-aware fine-tuning
-- 💬  Areas of focus: LLMs, RAG, GPT fine-tuning, bias mitigation, and ETL for ML
-- 🧪  Model explainability: GradCAM · Integrated Gradients · Feature-Map Attention
-- ⚡  Background spanning production ML across a startup, a telecommunications firm, and a research lab
+I design and deploy production-grade AI systems — LLM-powered applications, RAG pipelines, agentic workflows, and machine learning models built to solve real-world problems. My work centers on the intersection of **NLP, agentic AI, and responsible AI design**, with a consistent focus on systems that are rigorous, reliable, and genuinely useful.
+
+- 🔭 &nbsp;Currently developing **LLM-powered applications, RAG pipelines, and agentic workflows**
+- 👁️ &nbsp;Recently delivered a deep learning system for **diabetic retinopathy detection, achieving 90%+ accuracy**
+- 🌱 &nbsp;Advancing my work in **responsible AI, model evaluation, and fairness-aware fine-tuning**
+- 💬 &nbsp;Areas of focus: **LLMs, RAG, GPT fine-tuning, bias mitigation, and ETL for ML**
+- 🧪 &nbsp;Model explainability: **GradCAM · Integrated Gradients · Feature-Map Attention**
+- 📫 &nbsp;Contact: **shuverthikanungo.co@gmail.com**
+- ⚡ &nbsp;Background spanning production ML across a startup, a telecommunications firm, and a research lab
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -68,9 +75,9 @@ I design and deploy production-grade AI systems — LLM-powered applications, RA
 
 ## 🚀 Featured Work
 
-- 👁️ &nbsp;**Diabetic Retinopathy Detection** — deep learning system that spots the disease in retinal scans with **90%+ accuracy**
-- 🗣️ &nbsp;**Conversational AI** — LLM-powered assistant that cut manual processing time by **~60%**
-- ⚖️ &nbsp;**Fairer Transformers** — GPT models fine-tuned for a measurable **10–20% reduction in gender bias**
+- 👁️ &nbsp;**[Diabetic Retinopathy Detection](https://github.com/shuvgits/-Diabetic-Retinopathy-Detection-from-Fundus-Images-Using-Image-Processing)** — deep learning on fundus images to detect diabetic retinopathy, reaching **90%+ accuracy**
+- 🔍 &nbsp;**[Explainable AI for Retinopathy](https://github.com/shuvgits/Seeing-Through-the-Black-Box-Explainable-AI-for-Diabetic-Retinopathy-Detection)** — opening the black box with GradCAM & interpretability so clinical predictions can be trusted
+- 🗣️ &nbsp;**[Celebrity Sentiment Analysis](https://github.com/shuvgits/Celebrity-Sentiment-Analysis-in-Social-Media-Using-Natural-Language-Processing)** — NLP pipeline that classifies public sentiment toward figures across social media
 
 ---
 
@@ -88,16 +95,16 @@ I design and deploy production-grade AI systems — LLM-powered applications, RA
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shuvgits&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvgits&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shuvgits&theme=tokyonight&hide_border=true" alt="streak" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=shuvgits&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
 
 </div>
 
