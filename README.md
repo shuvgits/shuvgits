@@ -103,7 +103,7 @@ Diabetic Retinopathy Detection from Fundus Images using Image Processing.
 <img src="./proj-sentiment.png" width="100%" alt="Celebrity Sentiment Analysis" />
 </a>
 <br/><br/>
-NLP pipeline that classifies <b>public sentiment</b> toward figures across social media.
+Celebrity Sentiment Analysis in Social Media using Natural Language Processing.
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python" />
 <img src="https://img.shields.io/badge/NLP-2b2b2b?style=flat-square&logo=huggingface" />
