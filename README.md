@@ -91,6 +91,11 @@ Deep learning on fundus images to detect diabetic retinopathy, reaching <b>90%+ 
 <img src="./proj-explainable.png" width="100%" alt="Explainable AI for Retinopathy" />
 </a>
 <br/><br/>
+NLP pipeline that classifies <b>public sentiment</b> toward figures across social media.
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/NLP-2b2b2b?style=flat-square&logo=huggingface" />
+<br/><br/>
 Opening the black box with GradCAM & interpretability so clinical predictions can be <b>trusted</b>.
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python" />
@@ -102,11 +107,6 @@ Opening the black box with GradCAM & interpretability so clinical predictions ca
 <a href="https://github.com/shuvgits/Celebrity-Sentiment-Analysis-in-Social-Media-Using-Natural-Language-Processing">
 <img src="./proj-sentiment.png" width="100%" alt="Celebrity Sentiment Analysis" />
 </a>
-<br/><br/>
-NLP pipeline that classifies <b>public sentiment</b> toward figures across social media.
-<br/><br/>
-<img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python" />
-<img src="https://img.shields.io/badge/NLP-2b2b2b?style=flat-square&logo=huggingface" />
 <br/>
 <a href="https://github.com/shuvgits/Celebrity-Sentiment-Analysis-in-Social-Media-Using-Natural-Language-Processing"><b>View Project →</b></a>
 </td>
