@@ -79,7 +79,7 @@ I design and deploy production-grade AI systems — LLM-powered applications, RA
 <img src="./proj-retinopathy.png" width="100%" alt="Diabetic Retinopathy Detection" />
 </a>
 <br/><br/>
-Deep learning on fundus images to detect diabetic retinopathy, reaching <b>90%+ accuracy</b>.
+Diabetic Retinopathy Detection from Fundus Images using Image Processing.
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python" />
 <img src="https://img.shields.io/badge/TensorFlow-2b2b2b?style=flat-square&logo=tensorflow" />
@@ -91,7 +91,7 @@ Deep learning on fundus images to detect diabetic retinopathy, reaching <b>90%+ 
 <img src="./proj-explainable.png" width="100%" alt="Explainable AI for Retinopathy" />
 </a>
 <br/><br/>
-Opening the black box with GradCAM & interpretability so clinical predictions can be <b>trusted</b>.
+<b>Seeing through the Black Box:</b> Explainable AI for Diabetic Retinopathy Detection.
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python" />
 <img src="https://img.shields.io/badge/PyTorch-2b2b2b?style=flat-square&logo=pytorch" />
