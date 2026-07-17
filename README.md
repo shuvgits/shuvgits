@@ -134,15 +134,3 @@ Celebrity Sentiment Analysis in Social Media using Natural Language Processing.
 <td>Fine-tuned GPT models for fairness &nbsp;<img src="https://img.shields.io/badge/10--20%25_less_bias-E06A8E?style=flat-square" alt="10-20% less bias" /></td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-### 🎓 Certified in Generative AI with LLMs · Exploratory Data Analysis for ML
-
-*"I don't just train models — I make them useful, fair, and production-ready."*
-
-⭐️ Thanks for stopping by — let's build something responsible and clever together.
-
-</div>
