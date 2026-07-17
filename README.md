@@ -29,7 +29,7 @@
 
 ---
 
-## 🌸 About Me
+## About Me
 
 I design and deploy production-grade AI systems — LLM-powered applications, RAG pipelines, agentic workflows, and machine learning models built to solve real-world problems. My work centers on the intersection of NLP, agentic AI, and responsible AI design, with a consistent focus on systems that are rigorous, reliable, and genuinely useful.
 
@@ -42,7 +42,7 @@ I design and deploy production-grade AI systems — LLM-powered applications, RA
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
