@@ -17,8 +17,8 @@
 
 <img src="./banner.png" alt="Shuverthi Kanungo — AI/ML Engineer" width="100%" />
 
-<p>
-  ***Hello there, Welcome to my corner of GitHub 👋***
+<p align="center">
+  ***Hey there, welcome to my corner of GitHub.***
 </p>
 
 <a href="https://www.linkedin.com/in/shuverthikanungo">
