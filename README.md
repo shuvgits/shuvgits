@@ -19,9 +19,7 @@
 
 <h3>Welcome to my corner of GitHub 👋</h3>
 
-<a href="https://www.linkedin.com/in/shuverthikanungo">
-  <img src="./icon-linkedin.png" width="46" alt="LinkedIn"/>
-</a>
+<a href="https://www.linkedin.com/in/shuverthikanungo"><img src="./icon-linkedin.png" width="46" alt="LinkedIn"/></a>
 <a href="mailto:shuverthikanungo.co@gmail.com">
   <img src="./icon-email.png" width="46" alt="Email"/>
 </a>
