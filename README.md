@@ -18,21 +18,21 @@
 <img src="./banner.png" alt="Shuverthi Kanungo — AI/ML Engineer" width="100%" />
 
 <p>
-  <b>M.S. Computer Science (AI) · Hofstra</b> · New York City Metro · Open to AI/ML Engineer roles
+  <b>M.S. Computer Science (AI) · Hofstra University</b> · New York
 </p>
 
-<a href="https://www.linkedin.com/in/shuverthikanungo">
-  <img src="./icon-linkedin.png" width="46" alt="LinkedIn"/>
-</a>
 <a href="mailto:shuverthikanungo.co@gmail.com">
   <img src="./icon-email.png" width="46" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/shuverthikanungo">
+  <img src="./icon-linkedin.png" width="46" alt="LinkedIn"/>
 </a>
 
 </div>
 
 ---
 
-## 🌸 About Me
+## About Me
 
 I design and deploy production-grade AI systems — LLM-powered applications, RAG pipelines, agentic workflows, and machine learning models built to solve real-world problems. My work centers on the intersection of **NLP, agentic AI, and responsible AI design**, with a consistent focus on systems that are rigorous, reliable, and genuinely useful.
 
@@ -41,12 +41,10 @@ I design and deploy production-grade AI systems — LLM-powered applications, RA
 - 🌱 &nbsp;Advancing my work in **responsible AI, model evaluation, and fairness-aware fine-tuning**
 - 💬 &nbsp;Areas of focus: **LLMs, RAG, GPT fine-tuning, bias mitigation, and ETL for ML**
 - 🧪 &nbsp;Model explainability: **GradCAM · Integrated Gradients · Feature-Map Attention**
-- 📫 &nbsp;Contact: **shuverthikanungo.co@gmail.com**
-- ⚡ &nbsp;Background spanning production ML across a startup, a telecommunications firm, and a research lab
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -72,7 +70,7 @@ I design and deploy production-grade AI systems — LLM-powered applications, RA
 
 ---
 
-## 🚀 Featured Work
+## Featured Work
 
 <table>
 <tr>
@@ -117,41 +115,25 @@ NLP pipeline that classifies <b>public sentiment</b> toward figures across socia
 
 ---
 
-## 💼 Experience Snapshot
+## Experience Snapshot
 
 <table>
 <tr>
 <td align="center">🗓️<br/><b>2025</b></td>
-<td>💻 &nbsp;<b>Associate SW Developer (Co-Op)</b><br/><sub>Hotwire Communications</sub></td>
+<td><b>Associate SW Developer (Co-Op)</b><br/><sub>Hotwire Communications</sub></td>
 <td>Shipped LLM solutions that cut manual data processing &nbsp;<img src="https://img.shields.io/badge/~60%25_less-8B5CE6?style=flat-square" alt="~60% less" /></td>
 </tr>
 <tr>
 <td align="center">🗓️<br/><b>2025</b></td>
-<td>🤖 &nbsp;<b>Software Engineer Intern</b><br/><sub>SpringBoard Incubators</sub></td>
+<td><b>Software Engineer Intern</b><br/><sub>SpringBoard Incubators</sub></td>
 <td>ML-powered chatbot features &nbsp;<img src="https://img.shields.io/badge/+20--40%25_accuracy-2EA687?style=flat-square" alt="+20-40% accuracy" /></td>
 </tr>
 <tr>
 <td align="center">🗓️<br/><b>2024</b></td>
-<td>🔬 &nbsp;<b>Graduate Research Assistant</b><br/><sub>Hofstra University</sub></td>
+<td><b>Graduate Research Assistantship</b><br/><sub>Hofstra University</sub></td>
 <td>Fine-tuned GPT models for fairness &nbsp;<img src="https://img.shields.io/badge/10--20%25_less_bias-E06A8E?style=flat-square" alt="10-20% less bias" /></td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/shuvgits" alt="shuvgits's GitHub contribution calendar" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=shuvgits&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
-
-</div>
-
-</div>
 
 ---
 
