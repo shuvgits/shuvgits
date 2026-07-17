@@ -1,13 +1,12 @@
 <!--
 ════════════════════════════════════════════════════════════════
-  BEFORE YOU PASTE THIS IN:
-  1. This file goes in a repo named EXACTLY your GitHub username
-     (e.g. a repo called "shuverthikanungo"). That's the magic
-     "special repo" that shows up on your profile page.
-  2. Find & replace  shuvgits  with your real GitHub username
-     everywhere below (it appears in the stats cards + visitor counter).
-  3. Swap theme names (tokyonight) if you want a different vibe —
-     options: radical, dracula, merko, gruvbox, catppuccin_mocha, etc.
+  SETUP — upload these image files to your repo root, next to
+  this README, so everything renders:
+    • banner.png
+    • proj-retinopathy.png
+    • proj-explainable.png
+    • proj-sentiment.png
+  (This README goes in a repo named exactly your username: shuvgits)
 ════════════════════════════════════════════════════════════════
 -->
 
@@ -26,8 +25,6 @@
 <a href="mailto:shuverthikanungo.co@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<img src="https://img.shields.io/badge/Open_to_Work-AI%2FML_Engineer-A277FF?style=for-the-badge" alt="Open to work"/>
-<img src="https://komarev.com/ghpvc/?username=shuvgits&label=Profile%20views&color=a277ff&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -75,19 +72,53 @@ I design and deploy production-grade AI systems — LLM-powered applications, RA
 
 ## 🚀 Featured Work
 
-- 👁️ &nbsp;**[Diabetic Retinopathy Detection](https://github.com/shuvgits/-Diabetic-Retinopathy-Detection-from-Fundus-Images-Using-Image-Processing)** — deep learning on fundus images to detect diabetic retinopathy, reaching **90%+ accuracy**
-- 🔍 &nbsp;**[Explainable AI for Retinopathy](https://github.com/shuvgits/Seeing-Through-the-Black-Box-Explainable-AI-for-Diabetic-Retinopathy-Detection)** — opening the black box with GradCAM & interpretability so clinical predictions can be trusted
-- 🗣️ &nbsp;**[Celebrity Sentiment Analysis](https://github.com/shuvgits/Celebrity-Sentiment-Analysis-in-Social-Media-Using-Natural-Language-Processing)** — NLP pipeline that classifies public sentiment toward figures across social media
+<table>
+<tr>
+<td width="33%" align="center">
+<a href="https://github.com/shuvgits/-Diabetic-Retinopathy-Detection-from-Fundus-Images-Using-Image-Processing">
+<img src="./proj-retinopathy.png" width="100%" alt="Diabetic Retinopathy Detection" />
+</a>
+<br/>
+Deep learning on fundus images to detect diabetic retinopathy, reaching <b>90%+ accuracy</b>.
+</td>
+<td width="33%" align="center">
+<a href="https://github.com/shuvgits/Seeing-Through-the-Black-Box-Explainable-AI-for-Diabetic-Retinopathy-Detection">
+<img src="./proj-explainable.png" width="100%" alt="Explainable AI for Retinopathy" />
+</a>
+<br/>
+Opening the black box with GradCAM & interpretability so clinical predictions can be <b>trusted</b>.
+</td>
+<td width="33%" align="center">
+<a href="https://github.com/shuvgits/Celebrity-Sentiment-Analysis-in-Social-Media-Using-Natural-Language-Processing">
+<img src="./proj-sentiment.png" width="100%" alt="Celebrity Sentiment Analysis" />
+</a>
+<br/>
+NLP pipeline that classifies <b>public sentiment</b> toward figures across social media.
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💼 Experience Snapshot
 
-| When | Role | Highlight |
-|------|------|-----------|
-| 2025 | **Associate SW Developer (Co-Op)** · Hotwire Communications | Shipped LLM solutions that cut manual data processing ~60% |
-| 2025 | **Software Engineer Intern** · SpringBoard Incubators | ML-powered chatbot features, +20–40% response accuracy |
-| 2024 | **Graduate Research Assistant** · Hofstra University | Fine-tuned GPT models for a 10–20% gender-bias reduction |
+<table>
+<tr>
+<td align="center">🗓️<br/><b>2025</b></td>
+<td>💻 &nbsp;<b>Associate SW Developer (Co-Op)</b><br/><sub>Hotwire Communications</sub></td>
+<td>Shipped LLM solutions that cut manual data processing &nbsp;<img src="https://img.shields.io/badge/~60%25_less-8B5CE6?style=flat-square" alt="~60% less" /></td>
+</tr>
+<tr>
+<td align="center">🗓️<br/><b>2025</b></td>
+<td>🤖 &nbsp;<b>Software Engineer Intern</b><br/><sub>SpringBoard Incubators</sub></td>
+<td>ML-powered chatbot features &nbsp;<img src="https://img.shields.io/badge/+20--40%25_accuracy-2EA687?style=flat-square" alt="+20-40% accuracy" /></td>
+</tr>
+<tr>
+<td align="center">🗓️<br/><b>2024</b></td>
+<td>🔬 &nbsp;<b>Graduate Research Assistant</b><br/><sub>Hofstra University</sub></td>
+<td>Fine-tuned GPT models for fairness &nbsp;<img src="https://img.shields.io/badge/10--20%25_less_bias-E06A8E?style=flat-square" alt="10-20% less bias" /></td>
+</tr>
+</table>
 
 ---
 
@@ -95,16 +126,13 @@ I design and deploy production-grade AI systems — LLM-powered applications, RA
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shuvgits&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvgits&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shuvgits&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+<img src="https://ghchart.rshah.org/shuvgits" alt="shuvgits's GitHub contribution calendar" width="100%" />
 
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=shuvgits&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
+
+</div>
 
 </div>
 
