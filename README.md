@@ -18,7 +18,7 @@
 <img src="./banner.png" alt="Shuverthi Kanungo — AI/ML Engineer" width="100%" />
 
 <p>
-  <b>M.S. Computer Science (AI) · Hofstra University</b> · New York
+  Hello there, Welcome to my corner of GitHub 👋
 </p>
 
 <a href="https://www.linkedin.com/in/shuverthikanungo">
