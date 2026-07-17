@@ -31,15 +31,14 @@
 
 ## 🌸 About Me
 
-I teach machines to see, read, and reason — and I love every minute of it. I build the kind of AI that actually ships: LLM-powered applications, RAG pipelines, agentic workflows, and models that solve real problems instead of just sounding impressive in a demo. Most energized at the intersection of **NLP, agentic AI, and responsible AI design**.
+I design and deploy production-grade AI systems — LLM-powered applications, RAG pipelines, agentic workflows, and machine learning models built to solve real-world problems. My work centers on the intersection of NLP, agentic AI, and responsible AI design, with a consistent focus on systems that are rigorous, reliable, and genuinely useful.
 
-- 🔭 &nbsp;Currently building **LLM-powered applications, RAG pipelines & agentic workflows**
-- 👁️ &nbsp;Recently shipped a deep learning system that detects **diabetic retinopathy at 90%+ accuracy**
-- 🌱 &nbsp;Deepening my work in **responsible AI, model evaluation, and fairness-aware fine-tuning**
-- 💬 &nbsp;Ask me about **LLMs, RAG, GPT fine-tuning, bias mitigation, or ETL for ML**
-- 🧪 &nbsp;Explainability toolkit: **GradCAM · Integrated Gradients · Feature-Map Attention**
-- 📫 &nbsp;Reach me at **shuverthikanungo.co@gmail.com**
-- ⚡ &nbsp;Fun fact: I've shipped production ML at a startup, a telecom, and a research lab — all before graduating 🎓
+- 🔭  Currently developing LLM-powered applications, RAG pipelines, and agentic workflows
+- 👁️  Recently delivered a deep learning system for diabetic retinopathy detection, achieving 90%+ accuracy
+- 🌱  Advancing my work in responsible AI, model evaluation, and fairness-aware fine-tuning
+- 💬  Areas of focus: LLMs, RAG, GPT fine-tuning, bias mitigation, and ETL for ML
+- 🧪  Model explainability: GradCAM · Integrated Gradients · Feature-Map Attention
+- ⚡  Background spanning production ML across a startup, a telecommunications firm, and a research lab
 
 ---
 
