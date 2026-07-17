@@ -16,18 +16,24 @@
 
 <img src="./banner.png" alt="Shuverthi Kanungo — AI/ML Engineer" width="100%" />
 
+<p>
+  <b>M.S. Computer Science (AI) · Hofstra</b> · New York City Metro · Open to AI/ML Engineer roles
+</p>
+
 <a href="https://www.linkedin.com/in/shuverthikanungo">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:shuverthikanungo.co@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+<img src="https://img.shields.io/badge/Open_to_Work-AI%2FML_Engineer-A277FF?style=for-the-badge" alt="Open to work"/>
+<img src="https://komarev.com/ghpvc/?username=shuvgits&label=Profile%20views&color=a277ff&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
 ---
 
-##  About Me
+## 🌸 About Me
 
 I design and deploy production-grade AI systems — LLM-powered applications, RAG pipelines, agentic workflows, and machine learning models built to solve real-world problems. My work centers on the intersection of **NLP, agentic AI, and responsible AI design**, with a consistent focus on systems that are rigorous, reliable, and genuinely useful.
 
@@ -36,6 +42,8 @@ I design and deploy production-grade AI systems — LLM-powered applications, RA
 - 🌱 &nbsp;Advancing my work in **responsible AI, model evaluation, and fairness-aware fine-tuning**
 - 💬 &nbsp;Areas of focus: **LLMs, RAG, GPT fine-tuning, bias mitigation, and ETL for ML**
 - 🧪 &nbsp;Model explainability: **GradCAM · Integrated Gradients · Feature-Map Attention**
+- 📫 &nbsp;Contact: **shuverthikanungo.co@gmail.com**
+- ⚡ &nbsp;Background spanning production ML across a startup, a telecommunications firm, and a research lab
 
 ---
 
@@ -92,7 +100,7 @@ I design and deploy production-grade AI systems — LLM-powered applications, RA
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shuvgits&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shuvgits&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 
 <br/>
 
