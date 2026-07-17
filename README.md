@@ -3,6 +3,8 @@
   SETUP — upload these image files to your repo root, next to
   this README, so everything renders:
     • banner.png
+    • icon-linkedin.png
+    • icon-email.png
     • proj-retinopathy.png
     • proj-explainable.png
     • proj-sentiment.png
@@ -16,14 +18,15 @@
 <img src="./banner.png" alt="Shuverthi Kanungo — AI/ML Engineer" width="100%" />
 
 <p>
-  <b>M.S. Computer Science (AI) · Hofstra University</b> · New York 
+  <b>M.S. Computer Science (AI) · Hofstra</b> · New York City Metro · Open to AI/ML Engineer roles
 </p>
 
 <a href="https://www.linkedin.com/in/shuverthikanungo">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="./icon-linkedin.png" width="46" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;
 <a href="mailto:shuverthikanungo.co@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="./icon-email.png" width="46" alt="Email"/>
 </a>
 
 </div>
@@ -78,22 +81,37 @@ I design and deploy production-grade AI systems — LLM-powered applications, RA
 <a href="https://github.com/shuvgits/-Diabetic-Retinopathy-Detection-from-Fundus-Images-Using-Image-Processing">
 <img src="./proj-retinopathy.png" width="100%" alt="Diabetic Retinopathy Detection" />
 </a>
-<br/>
+<br/><br/>
 Deep learning on fundus images to detect diabetic retinopathy, reaching <b>90%+ accuracy</b>.
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/TensorFlow-2b2b2b?style=flat-square&logo=tensorflow" />
+<br/>
+<a href="https://github.com/shuvgits/-Diabetic-Retinopathy-Detection-from-Fundus-Images-Using-Image-Processing"><b>View Project →</b></a>
 </td>
 <td width="33%" align="center">
 <a href="https://github.com/shuvgits/Seeing-Through-the-Black-Box-Explainable-AI-for-Diabetic-Retinopathy-Detection">
 <img src="./proj-explainable.png" width="100%" alt="Explainable AI for Retinopathy" />
 </a>
-<br/>
+<br/><br/>
 Opening the black box with GradCAM & interpretability so clinical predictions can be <b>trusted</b>.
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/PyTorch-2b2b2b?style=flat-square&logo=pytorch" />
+<br/>
+<a href="https://github.com/shuvgits/Seeing-Through-the-Black-Box-Explainable-AI-for-Diabetic-Retinopathy-Detection"><b>View Project →</b></a>
 </td>
 <td width="33%" align="center">
 <a href="https://github.com/shuvgits/Celebrity-Sentiment-Analysis-in-Social-Media-Using-Natural-Language-Processing">
 <img src="./proj-sentiment.png" width="100%" alt="Celebrity Sentiment Analysis" />
 </a>
-<br/>
+<br/><br/>
 NLP pipeline that classifies <b>public sentiment</b> toward figures across social media.
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/NLP-2b2b2b?style=flat-square&logo=huggingface" />
+<br/>
+<a href="https://github.com/shuvgits/Celebrity-Sentiment-Analysis-in-Social-Media-Using-Natural-Language-Processing"><b>View Project →</b></a>
 </td>
 </tr>
 </table>
