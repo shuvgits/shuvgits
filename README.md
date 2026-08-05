@@ -70,45 +70,65 @@ I design and deploy production-grade AI systems — LLM-powered applications, RA
 
 <table>
 <tr>
-<td width="33%" align="center">
-<a href="https://github.com/shuvgits/-Diabetic-Retinopathy-Detection-from-Fundus-Images-Using-Image-Processing">
-<img src="./proj-retinopathy.png" width="100%" alt="Diabetic Retinopathy Detection" />
+<td width="50%" align="center">
+<a href="https://github.com/shuvgits/autonomous-test-agent">
+<img src="./proj-agent.png" width="100%" alt="Autonomous Coding Agent" />
 </a>
 <br/><br/>
-Diabetic Retinopathy Detection from Fundus Images using Image Processing.
+<b>Autonomous Coding Agent with Sandboxed Execution</b>
+<br/>
+Writes pytest suites, runs them in a hardened Docker sandbox, reads its own failures, and repairs itself. 95.3% mean coverage across 7 third-party modules at $0.08 each.
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python" />
-<img src="https://img.shields.io/badge/TensorFlow-2b2b2b?style=flat-square&logo=tensorflow" />
+<img src="https://img.shields.io/badge/Claude_API-2b2b2b?style=flat-square&logo=anthropic" />
+<img src="https://img.shields.io/badge/Docker-2b2b2b?style=flat-square&logo=docker" />
 <br/>
-<a href="https://github.com/shuvgits/-Diabetic-Retinopathy-Detection-from-Fundus-Images-Using-Image-Processing"><b>View Project →</b></a>
+<a href="https://github.com/shuvgits/autonomous-test-agent"><b>View Project →</b></a>
 </td>
-<td width="33%" align="center">
+<td width="50%" align="center">
 <a href="https://github.com/shuvgits/Seeing-Through-the-Black-Box-Explainable-AI-for-Diabetic-Retinopathy-Detection">
 <img src="./proj-explainable.png" width="100%" alt="Explainable AI for Retinopathy" />
 </a>
 <br/><br/>
-Seeing through the Black Box: Explainable AI for Diabetic Retinopathy Detection.
+<b>Seeing Through the Black Box</b>
+<br/>
+EfficientNet-B4 grading diabetic retinopathy across 35,126 fundus images, paired with four explainability methods. 0.96 AUC on proliferative DR.
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python" />
 <img src="https://img.shields.io/badge/PyTorch-2b2b2b?style=flat-square&logo=pytorch" />
 <br/>
 <a href="https://github.com/shuvgits/Seeing-Through-the-Black-Box-Explainable-AI-for-Diabetic-Retinopathy-Detection"><b>View Project →</b></a>
 </td>
-<td width="33%" align="center">
+</tr>
+<tr>
+<td width="50%" align="center">
 <a href="https://github.com/shuvgits/Celebrity-Sentiment-Analysis-in-Social-Media-Using-Natural-Language-Processing">
 <img src="./proj-sentiment.png" width="100%" alt="Celebrity Sentiment Analysis" />
 </a>
 <br/><br/>
-Celebrity Sentiment Analysis in Social Media using Natural Language Processing.
+<b>Sentiment Analysis at Scale</b>
+<br/>
+End-to-end NLP pipeline over 2M+ social media documents, fine-tuning BERT to 94% precision on multi-class sentiment classification.
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python" />
-<img src="https://img.shields.io/badge/NLP-2b2b2b?style=flat-square&logo=huggingface" />
+<img src="https://img.shields.io/badge/BERT-2b2b2b?style=flat-square&logo=huggingface" />
 <br/>
 <a href="https://github.com/shuvgits/Celebrity-Sentiment-Analysis-in-Social-Media-Using-Natural-Language-Processing"><b>View Project →</b></a>
 </td>
-</tr>
-</table>
-
+<td width="50%" align="center">
+<a href="https://github.com/shuvgits/Diabetic-Retinopathy-Detection-from-Fundus-Images-Using-Image-Processing">
+<img src="./proj-retinopathy.png" width="100%" alt="Diabetic Retinopathy Detection" />
+</a>
+<br/><br/>
+<b>Diabetic Retinopathy Detection</b>
+<br/>
+CNN with transfer learning over 10,000+ fundus images, tuned to reduce false negatives in a clinical screening context.
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/TensorFlow-2b2b2b?style=flat-square&logo=tensorflow" />
+<br/>
+<a href="https://github.com/shuvgits/Diabetic-Retinopathy-Detection-from-Fundus-Images-Using-Image-Processing"><b>View Project
+  
 ---
 
 ## Experience Snapshot
