@@ -121,7 +121,7 @@ EfficientNet-B4 grading diabetic retinopathy across <b>35,126</b> fundus images,
 <img src="./proj-sentiment.png" width="400" alt="Sentiment Analysis at Scale" />
 </a>
 
-<b>Sentiment Analysis at Scale</b>
+<b>Celebrity Sentiment Analysis Using Natural Language Processing</b>
 
 End-to-end NLP pipeline over <b>2M+</b> social media documents, fine-tuning a BERT classifier to <b>94% precision</b> on multi-class sentiment classification.
 
@@ -138,7 +138,7 @@ End-to-end NLP pipeline over <b>2M+</b> social media documents, fine-tuning a BE
 <img src="./proj-retinopathy.png" width="400" alt="Diabetic Retinopathy Detection" />
 </a>
 
-<b>Diabetic Retinopathy Detection</b>
+<b>Diabetic Retinopathy From Fundus Image Using Image Processing</b>
 
 CNN with transfer learning over <b>10,000+</b> fundus images, with evaluation tuned to reduce false negatives in a clinical screening context.
 
