@@ -102,7 +102,7 @@ Writes pytest suites, runs them in a hardened Docker sandbox, reads the real exe
 <img src="./proj-explainable.png" width="400" alt="Explainable AI for Retinopathy" />
 </a>
 
-<b>Seeing Through the Black Box</b>
+<b>Seeing Through the Black Box: Explainable AI for Dibetic Retinopathy Detection</b>
 
 EfficientNet-B4 grading diabetic retinopathy across <b>35,126</b> fundus images, paired with four explainability methods. <b>0.96 AUC</b> on proliferative DR, with attribution analysis that surfaced a border-artifact failure mode.
 
